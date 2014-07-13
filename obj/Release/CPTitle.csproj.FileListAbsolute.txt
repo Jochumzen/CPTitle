@@ -1,0 +1,4 @@
+C:\websites\dnndev.me\bin\CPTitle.dll
+C:\websites\dnndev.me\bin\CPTitle.pdb
+C:\websites\dnndev.me\DesktopModules\CPTitle\obj\Release\CPTitle.dll
+C:\websites\dnndev.me\DesktopModules\CPTitle\obj\Release\CPTitle.pdb

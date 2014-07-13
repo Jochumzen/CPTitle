@@ -1,0 +1,5 @@
+C:\websites\dnndev.me\bin\CPTitle.dll
+C:\websites\dnndev.me\bin\CPTitle.pdb
+C:\websites\dnndev.me\DesktopModules\CPTitle\obj\Debug\CPTitle.csprojResolveAssemblyReference.cache
+C:\websites\dnndev.me\DesktopModules\CPTitle\obj\Debug\CPTitle.dll
+C:\websites\dnndev.me\DesktopModules\CPTitle\obj\Debug\CPTitle.pdb
